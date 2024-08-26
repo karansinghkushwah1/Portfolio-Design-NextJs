@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Karan's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  description: "NextJs based Portfolio with animation",
 };
 
 export default function RootLayout({
